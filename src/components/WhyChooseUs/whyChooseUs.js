@@ -11,7 +11,6 @@ export default function whyChooseUs() {
             <img
               src="https://www.flaticon.com/svg/static/icons/svg/1252/1252390.svg"
               alt=""
-              srcset=""
               width="60px"
             />
           </IconWrapper>
@@ -27,7 +26,6 @@ export default function whyChooseUs() {
             <img
               src="https://www.flaticon.com/svg/static/icons/svg/3565/3565874.svg"
               alt=""
-              srcset=""
               width="70px"
             />
           </IconWrapper>
@@ -43,7 +41,6 @@ export default function whyChooseUs() {
             <img
               src="https://www.flaticon.com/svg/static/icons/svg/3604/3604032.svg"
               alt=""
-              srcset=""
               width="70px"
             />
           </IconWrapper>

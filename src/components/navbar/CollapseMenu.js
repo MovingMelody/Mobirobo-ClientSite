@@ -20,8 +20,8 @@ const CollapseMenu = (props) => {
           <li><a href="/" onClick={props.handleNavbar}>Products</a></li>
           <li><a href="/" onClick={props.handleNavbar}>About Us</a></li>
           {/* <li><a href="/" onClick={props.handleNavbar}>Contact Us</a></li> */}
-          <CallButton href="tel:7892263212" style={{color:"white"}} className="call-btn">
-              7892263212
+          <CallButton href="tel:9642183XXX" style={{color:"white"}} className="call-btn">
+              9642183XXX
             </CallButton>
         </NavLinks>
       </CollapseWrapper>

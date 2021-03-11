@@ -93,10 +93,6 @@ const EachBrand = styled.div`
   background: white;
   padding: 35px 50px;
   display: flex;
-
-  /*  -webkit-box-shadow: 8px 12px 24px 5px rgba(204, 214, 246, 0.64);
-  box-shadow: 8px 12px 24px -5px rgba(204, 214, 246, 0.64); */
-  /* border-radius: 6px; */
   border: 1px solid rgba(204, 214, 246, 0.2);
   align-items: center;
   flex-direction: column;

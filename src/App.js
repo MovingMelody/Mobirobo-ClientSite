@@ -5,8 +5,8 @@ import WhyChooseUs from "./components/WhyChooseUs/whyChooseUs";
 import GlobalStyle from "./styles/Global";
 import Footer from "./components/Footer/footer";
 import SwiperSlider from "./components/ImageSlider/swiperSlider";
-import Issues from './components/WhyChooseUs/issuesWeSolve'
-import ProductsCategory from './components/Products/productsCategories'
+import Issues from "./components/WhyChooseUs/issuesWeSolve";
+import ProductsCategory from "./components/Products/productsCategories";
 class App extends Component {
   state = {
     navbarOpen: false,
@@ -19,18 +19,15 @@ class App extends Component {
   render() {
     return (
       <div>
-        {/* <GlobalStyle>? fix your screen at affordable price */}
         <Navbar
           navbarState={this.state.navbarOpen}
           handleNavbar={this.handleNavbar}
         />
-        {/* <DemoCarousel /> */}
-        {/* <ImageSlider /> */}
         <SwiperSlider />
         <div className="site-wrapper">
           <Issues />
           <div style={{ margin: "30px" }}></div>
-        <ProductsCategory />
+          <ProductsCategory />
           <WhyChooseUs />
           <div style={{ margin: "30px" }}></div>
           <MobileBrands />

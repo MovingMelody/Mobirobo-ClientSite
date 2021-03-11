@@ -28,8 +28,8 @@ const Navbar = (props) => {
             <a href="/">Home</a>
             <a href="/">Products</a>
             <a href="/">ABout us</a>
-            <CallButton href="tel:7892263212" style={{color:"white"}} className="call-btn">
-              7892263212
+            <CallButton href="tel:9642183XXX" style={{color:"white"}} className="call-btn">
+              9642183XXX
             </CallButton>
           </NavLinks>
           <BurgerWrapper>

@@ -11,8 +11,6 @@ import {
   faChevronRight,
   faMobileAlt,
   faHome,
-  
-  faClock,
   faEnvelope,
 } from "@fortawesome/free-solid-svg-icons";
 export default function Footer() {
@@ -35,7 +33,7 @@ export default function Footer() {
             <SocialMedia>
               <div style={{ paddingRight: "8px" }}>
                 <a
-                  href="https://www.instagram.com/mobirobo"
+                  href="https://www.instagram.com/reactjs"
                   style={{ color: "#ccd6f6" }}
                 >
                   <FontAwesomeIcon icon={faTwitter} />
@@ -43,7 +41,7 @@ export default function Footer() {
               </div>
               <div style={{ padding: "8px" }}>
                 <a
-                  href="https://api.whatsapp.com/send?phone=+917892263212"
+                  href="https://api.whatsapp.com/send?phone=+919642183590"
                   style={{ color: "#ccd6f6" }}
                 >
                   <FontAwesomeIcon icon={faWhatsapp} />
@@ -51,7 +49,7 @@ export default function Footer() {
               </div>
               <div style={{ padding: "8px" }}>
                 <a
-                  href="https://www.instagram.com/mobirobo"
+                  href="https://www.instagram.com/reactjs"
                   style={{ color: "#ccd6f6" }}
                 >
                   <FontAwesomeIcon icon={faInstagram} />
@@ -63,9 +61,7 @@ export default function Footer() {
             </SocialMedia>
           </EachLinkItem>
           <EachLinkItem>
-            <p>
-              9 : 00 am - 10 : 00 pm
-            </p>
+            <p>9 : 00 am - 10 : 00 pm</p>
           </EachLinkItem>
         </LinksCategoryWrapper>
         <LinksCategoryWrapper>
@@ -116,13 +112,13 @@ export default function Footer() {
           <LinksCategoryHeader>Contact Us</LinksCategoryHeader>
           <EachLinkItem>
             <FontAwesomeIcon icon={faMobileAlt} color="#ffaa19" />
-            <p style={{ marginLeft: "8px" }}> +91 7892263212</p>
+            <p style={{ marginLeft: "8px" }}> +91 9642183590</p>
           </EachLinkItem>
           <EachLinkItem>
             <FontAwesomeIcon icon={faEnvelope} color="#ffaa19" />
             <p style={{ marginLeft: "8px", textTransform: "lowercase" }}>
               {" "}
-              bhargav@mobirobo.in
+              care@mobirobo.in
             </p>
           </EachLinkItem>
           <EachLinkItem>
@@ -139,7 +135,6 @@ export default function Footer() {
               560076.
             </p>
           </EachLinkItem>
-          
         </LinksCategoryWrapper>
       </FooterWrapper>
       <CopyRights>
