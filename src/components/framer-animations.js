@@ -7,7 +7,7 @@ export const container = {
       delayChildren: 0.1,
     //   duration: 1,
       when: "beforeChildren",
-      staggerChildren: 0.3,
+      staggerChildren: 0.28,
     },
   },
 };
