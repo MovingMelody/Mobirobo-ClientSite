@@ -66,22 +66,18 @@ export default function Footer() {
         </LinksCategoryWrapper>
         <LinksCategoryWrapper>
           <LinksCategoryHeader>Our Products</LinksCategoryHeader>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>smart phone Displays</p>
           </EachLinkItem>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>OCA Laminating machines</p>
           </EachLinkItem>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>Mobile Repair tools</p>
           </EachLinkItem>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>Mobile Accessories</p>
@@ -89,25 +85,20 @@ export default function Footer() {
         </LinksCategoryWrapper>
         <LinksCategoryWrapper>
           <LinksCategoryHeader>Our Services</LinksCategoryHeader>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>Mobile Repair</p>
           </EachLinkItem>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>Screen Replacement</p>
           </EachLinkItem>
-
           <EachLinkItem>
             <FontAwesomeIcon icon={faChevronRight} />
             <p style={{ marginLeft: "8px" }}>Smart Watch Repair</p>
           </EachLinkItem>
-
           <EachLinkItem></EachLinkItem>
         </LinksCategoryWrapper>
-
         <LinksCategoryWrapper>
           <LinksCategoryHeader>Contact Us</LinksCategoryHeader>
           <EachLinkItem>
